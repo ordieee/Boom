@@ -3,6 +3,6 @@ package bla;
 	
 public class Bla {
 	public static void main (String[] argv) {
-		System.out.println("Hello piemel");
+		System.out.println("Hello piemels");
 	}
 }
